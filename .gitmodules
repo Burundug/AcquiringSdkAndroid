@@ -1,0 +1,3 @@
+[submodule "AcquiringSdkAndroid"]
+	path = AcquiringSdkAndroid
+	url = https://github.com/Burundug/AcquiringSdkAndroid.git
